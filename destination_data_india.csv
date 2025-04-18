@@ -1,0 +1,51 @@
+Destination ID,Destination Name,Category,Budget,Weather,Description,Region
+D001,Mumbai,Beach,high,rainy,"Mumbai is a bustling coastal city with iconic beaches, a vibrant nightlife, and rich cultural history.",West
+D002,Delhi,Historical,Medium,sunny,"Delhi offers a blend of ancient history and modernity, from Red Fort to Qutub Minar and Humayun's Tomb.",North
+D003,Kolkata,Nature,Medium,rainy,"Kolkata is known for its cultural diversity and lush green spaces, making it a nature lover? haven.",East
+D004,Bengaluru,Nature,high,sunny,"Bengaluru is a green city with many parks, lakes, and a perfect climate for outdoor exploration.",South
+D005,Chennai,Nature,Medium,rainy,"Chennai, a coastal city, is home to scenic beaches, historic temples, and rich natural beauty.",South
+D006,Hyderabad,Nature,Medium,sunny,"Hyderabad is known for its natural beauty, parks, lakes, and majestic historical sites like the Charminar.",South
+D007,Ahmedabad,Nature,Medium,sunny,"Ahmedabad is famous for its green spaces, such as Kankaria Lake and Sabarmati Riverfront.",West
+D008,Pune,Nature,low,sunny,"Pune is surrounded by hills and lush greenery, ideal for nature walks and scenic picnics.",West
+D009,Surat,Beach,low,rainy,"Surat offers beautiful beaches and a mix of coastal views, seafood, and vibrant festivals.",West
+D010,Lucknow,Historical,low,sunny,"Lucknow is renowned for its Mughal architecture, cultural heritage, and grand monuments like Bara Imambara.",North
+D011,Jaipur,Historical,Medium,sunny,"Jaipur, also known as the Pink City, is rich in royal palaces, forts, and traditional Indian architecture.",North
+D012,Kanpur,Nature,Medium,sunny,"Kanpur is a city known for its green parks, beautiful riverfront, and rich industrial history.",North
+D013,Nagpur,Nature,Medium,sunny,"Nagpur offers nature lovers various green spaces, parks, and the famous Umred Karhandla Wildlife Sanctuary.",West
+D014,Indore,Nature,low,sunny,"Indore is home to scenic gardens, parks, and historical landmarks such as Rajwada and Lal Baag Palace.",Central
+D015,Patna,Nature,Medium,sunny,"Patna, a city with rich history, is also known for its green spaces and scenic riverfront.",East
+D016,Vadodara,Nature,low,sunny,"Vadodara is known for its parks, gardens, and cultural spaces like Sayaji Garden and Laxmi Vilas Palace.",West
+D017,Visakhapatnam,Beach,Medium,rainy,"Visakhapatnam, also known as Vizag, offers stunning beaches and a natural coastal charm.",South
+D018,Bhopal,Nature,Medium,sunny,"Bhopal is blessed with lush landscapes, lakes, and natural beauty, ideal for outdoor activities.",Central
+D019,Coimbatore,Nature,low,sunny,"Coimbatore is a city surrounded by hills, waterfalls, and offers serene views of nature? beauty.",South
+D020,Prayagraj,Spiritual,Medium,sunny,"Prayagraj, a city known for its spiritual significance, is where the Ganga, Yamuna, and Saraswati rivers converge.",North
+D021,Kochi,Beach,Medium,rainy,"Kochi, also known as Cochin, is a beautiful coastal city with tranquil beaches, backwaters, and seafood.",South
+D022,Ludhiana,Nature,low,sunny,"Ludhiana, a city in Punjab, is known for its green spaces and parks, perfect for nature lovers.",North
+D023,Madurai,Nature,Medium,sunny,"Madurai is known for its natural beauty, with lush gardens, ancient temples, and scenic views.",South
+D024,Meerut,Nature,Medium,sunny,"Meerut offers natural green landscapes, parks, and beautiful surroundings perfect for sightseeing.",North
+D025,Nashik,Nature,Medium,sunny,"Nashik is surrounded by lush vineyards, hills, and the famous Godavari River, offering a perfect natural escape.",West
+D026,Agra,Historical,Medium,sunny,"Agra is home to the world-renowned Taj Mahal, and other beautiful historical monuments.",North
+D027,Varanasi,Spiritual,Medium,sunny,"Varanasi, one of the oldest cities in the world, offers spiritual experiences along the Ganges River.",North
+D028,Thiruvananthapuram,Beach,low,rainy,"Thiruvananthapuram, Kerala's capital, offers pristine beaches, historical sites, and tropical greenery.",South
+D029,Bhubaneswar,Nature,Medium,rainy,"Bhubaneswar is a city surrounded by nature, known for its temples, parks, and nearby natural reserves.",East
+D030,Ranchi,Nature,Medium,sunny,"Ranchi is surrounded by waterfalls, hills, and serene landscapes, offering a peaceful retreat.",East
+D031,Jodhpur,Historical,Medium,sunny,"Jodhpur, the Blue City, is known for its majestic forts and palaces, as well as the scenic landscapes.",North
+D032,Aurangabad,Nature,high,sunny,"Aurangabad is known for its ancient cave temples, green landscapes, and serene natural surroundings.",West
+D033,Rajkot,Nature,Medium,sunny,"Rajkot is a beautiful city with scenic parks, green spaces, and a vibrant cultural scene.",West
+D034,Gwalior,Nature,Medium,sunny,"Gwalior is a city surrounded by mountains, forests, and historical monuments, perfect for nature walks.",Central
+D035,Raipur,Nature,low,sunny,"Raipur is known for its rich natural beauty, green parks, and diverse flora and fauna.",Central
+D036,Gorakhpur,Nature,Medium,sunny,"Gorakhpur, a city blessed with lush gardens and greenery, offers a peaceful natural atmosphere.",North
+D037,Kannur,Nature,Medium,sunny,"Kannur in Kerala is known for its beaches, forts, and scenic natural beauty.",South
+D038,Bareilly,Nature,Medium,sunny,"Bareilly is surrounded by parks, gardens, and a rich landscape perfect for nature walks.",North
+D039,Guwahati,Nature,low,sunny,"Guwahati offers lush green hills, temples, and a scenic view of the Brahmaputra River.",Northeast
+D040,Amritsar,Spiritual,low,sunny,"Amritsar is known for the Golden Temple, a peaceful destination for spiritual seekers and tourists.",North
+D041,Mysore,Historical,high,sunny,"Mysore offers grand palaces, forts, and historic gardens, perfect for history buffs and travelers.",South
+D042,Vijayawada,Nature,low,sunny,"Vijayawada offers beautiful riversides, hills, and lush green fields.",South
+D043,Srinagar,Nature,high,cold,"Srinagar is known for its natural beauty, including the famous Dal Lake and lush gardens.",North
+D044,Salem,Nature,Medium,sunny,"Salem is known for its natural beauty, lakes, and surrounding hills, ideal for nature walks and exploration.",South
+D045,Kota,Nature,high,sunny,"Kota is known for its natural reserves and green spaces, perfect for nature lovers and wildlife enthusiasts.",North
+D046,Jalandhar,Nature,Medium,sunny,"Jalandhar is home to beautiful parks and natural surroundings, perfect for outdoor activities.",North
+D047,Saharanpur,Nature,Medium,sunny,"Saharanpur offers lush forests, parks, and scenic views, making it an ideal spot for nature lovers.",North
+D048,Dehradun,Nature,high,cold,"Dehradun is surrounded by majestic hills and pine forests, making it a perfect nature getaway.",North
+D049,Leh,Nature,high,cold,"Leh is a stunning destination known for its barren landscapes, mountains, and the peaceful desert-like environment.",North
+D050,Manali,Nature,Medium,cold,"Manali is known for its pristine nature, snow-capped mountains, and lush valleys ideal for adventure lovers.",North
